@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the assignment for the course, including
+  prompts and related readings for three short papers, an oral presentation, a long
+  paper, and related resources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -41,7 +44,7 @@ RELATED READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Short paper 1 prompt (PDF)]({{< baseurl >}}/resources/mit17_20s13_paper1prompt)
+{{% resource_link ab3d0299-52cd-a060-f4af-cd811189a591 "Short paper 1 prompt (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -59,7 +62,7 @@ RELATED READINGS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Short paper 2: Apply a Theory to a Particular Case prompt (PDF)]({{< baseurl >}}/resources/mit17_20s13_paper2prompt)
+{{% resource_link 6f47dc39-78c1-f83c-57a3-363784fdf89b "Short paper 2: Apply a Theory to a Particular Case prompt (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -72,7 +75,7 @@ Krehbiel, Keith. "Basics." Chapter 1 in _Pivotal Politics: A Theory of U.S. Lawm
 
 Layzer, Judith A. "Cold Front: How the Recession Stalled Obama's Clean-Energy Agenda." Chapter 8 in _Reaching for a New Deal: Ambitious Governance, Economic Meltdown, and Polarized Politics on Obama's First Two Years_. Edited by Theda Skocpol and Lawrence R. Jacobs. Russell Sage Foundation, 2011. ISBN: 9780871548559. \[Preview with [Google Books](http://books.google.com/books?id=VJwirADAPzYC&pg=PA321#v=onepage)\]
 
-[Ideology of the 111th Senate (PDF)]({{< baseurl >}}/resources/mit17_20s13_idlgy111th_sen)
+{{% resource_link 6b282fb2-5cdc-6637-19e2-f69a71384872 "Ideology of the 111th Senate (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -83,7 +86,7 @@ Layzer, Judith A. "Cold Front: How the Recession Stalled Obama's Clean-Energy Ag
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Short paper 3: Comparative Analysis prompt (PDF)]({{< baseurl >}}/resources/mit17_20s13_paper3prompt)
+{{% resource_link be88b296-25d1-d904-786f-23de94df6d59 "Short paper 3: Comparative Analysis prompt (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -121,15 +124,15 @@ Students are required to deliver a short oral presentation on the topic of one o
 Long Paper
 ----------
 
-The course culminates in a longish (3,000–3,500 words) paper, in which students will take and defend a normative position on one of the substantive debates in Part V of the course. (See the [Calendar]({{< baseurl >}}/pages/calendar) section.)
+The course culminates in a longish (3,000–3,500 words) paper, in which students will take and defend a normative position on one of the substantive debates in Part V of the course. (See the {{% resource_link 3d5397d0-f622-3c9c-1242-fd5ee366061f "Calendar" %}} section.)
 
-[Long Paper prompt (PDF)]({{< baseurl >}}/resources/mit17_20s13_lng_pr_prmpt)
+{{% resource_link 7c92a5fa-bc29-dd19-6797-b2c349293460 "Long Paper prompt (PDF)" %}}
 
 In preparation for the long paper, the following assignment was given:
 
-[Idea for Long Paper (PDF)]({{< baseurl >}}/resources/mit17_20s13_idea_long_pr)
+{{% resource_link 22428ca1-6c76-855f-4b96-88b46506c1b4 "Idea for Long Paper (PDF)" %}}
 
 Related Resource
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[APSA Style Manual for Political Science (PDF - 2.0MB)](https://connect.apsanet.org/stylemanual/)
+[APSA Style Manual for Political Science (PDF - 2.0MB)](https://connect.apsanet.org/stylemanual/)

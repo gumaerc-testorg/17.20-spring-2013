@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, learning goals, readings, and grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +46,7 @@ Kernell, Samuel, and Steven S. Smith, eds. _Principles and Practice of American 
 
 Mayhew, David R. _Partisan Balance: Why Political Parties Don't Kill the U.S. Constitutional System_. Princeton University Press, 2013. ISBN: 9780691157986.
 
-Remaining readings come from a variety of sources and are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Remaining readings come from a variety of sources and are detailed in the {{% resource_link 95287732-e099-1f53-d53b-31fb809ed472 "Readings" %}} section.
 
 Grading Policy
 --------------
