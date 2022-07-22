@@ -5,6 +5,7 @@ file: /courses/17-20-introduction-to-american-politics-spring-2013/d023617de128e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.20S13 Introduction to American Politics: Lecture Slides 9'
 uid: d023617d-e128-e782-c6f2-860b26658a1a
 ---
 This file contains information regarding lecture 9.
-
