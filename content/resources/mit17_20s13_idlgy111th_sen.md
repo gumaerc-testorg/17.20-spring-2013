@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding 111th senate ideology.
 file: /courses/17-20-introduction-to-american-politics-spring-2013/6b282fb25cdc663719e2f69a71384872_MIT17_20S13_IDLGY111TH_SEN.pdf
+file_size: 655710
 file_type: application/pdf
 learning_resource_types:
 - Assignments

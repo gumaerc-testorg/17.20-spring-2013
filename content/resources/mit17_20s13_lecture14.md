@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 14.
 file: /courses/17-20-introduction-to-american-politics-spring-2013/644afa853cc58c39eb2c6373f0e92c01_MIT17_20S13_Lecture14.pdf
+file_size: 138955
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
