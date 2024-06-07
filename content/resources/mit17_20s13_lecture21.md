@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 21.
 file: /courses/17-20-introduction-to-american-politics-spring-2013/5fc217d7ccb1a15dcda161deb443f529_MIT17_20S13_Lecture21.pdf
+file_size: 154230
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
