@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding long paper idea.
-file: /courses/17-20-introduction-to-american-politics-spring-2013/22428ca16c76855f4b9688b46506c1b4_MIT17_20S13_Idea_Long_Pr.pdf
+file: /ol-ocw-studio-app/courses/17-20-introduction-to-american-politics-spring-2013/22428ca16c76855f4b9688b46506c1b4_MIT17_20S13_Idea_Long_Pr.pdf
 file_size: 120813
 file_type: application/pdf
 learning_resource_types:
