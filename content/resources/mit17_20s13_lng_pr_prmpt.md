@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding long paper prompt.
-file: /ol-ocw-studio-app/courses/17-20-introduction-to-american-politics-spring-2013/7c92a5fabc29dd196797b2c349293460_MIT17_20S13_Lng_Pr_Prmpt.pdf
+file: /courses/17-20-introduction-to-american-politics-spring-2013/7c92a5fabc29dd196797b2c349293460_MIT17_20S13_Lng_Pr_Prmpt.pdf
 file_size: 171705
 file_type: application/pdf
 learning_resource_types:

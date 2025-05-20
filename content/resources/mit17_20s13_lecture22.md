@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 22.
-file: /ol-ocw-studio-app/courses/17-20-introduction-to-american-politics-spring-2013/f1b176a500406c6cde6fb0c845f74325_MIT17_20S13_Lecture22.pdf
+file: /courses/17-20-introduction-to-american-politics-spring-2013/f1b176a500406c6cde6fb0c845f74325_MIT17_20S13_Lecture22.pdf
 file_size: 117498
 file_type: application/pdf
 learning_resource_types:
