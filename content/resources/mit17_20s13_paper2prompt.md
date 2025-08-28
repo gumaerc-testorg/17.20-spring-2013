@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding short paper 2 prompt.
-file: /courses/17-20-introduction-to-american-politics-spring-2013/6f47dc3978c1f83c57a3363784fdf89b_MIT17_20S13_Paper2Prompt.pdf
+file: /ol-ocw-studio-app/courses/17-20-introduction-to-american-politics-spring-2013/6f47dc3978c1f83c57a3363784fdf89b_MIT17_20S13_Paper2Prompt.pdf
 file_size: 728814
 file_type: application/pdf
 learning_resource_types:
