@@ -16,14 +16,14 @@ Lectures: 2 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-MIT students must enter the [HASS-D Lottery](http://shass.mit.edu/undergraduate/hass/lottery) to take this course.
+MIT students must enter the {{% resource_link "15c58e68-2755-43e1-9ce5-b3fded8d596d" "HASS-D Lottery" %}} to take this course.
 
 Course Description
 ------------------
 
 This course provides an introduction to the academic study of American politics and, to some extent, to the discipline of political science more generally. We will cover a range of substantive topics, including the cultural and constitutional foundations of American politics; its institutional structures, such as Congress and the presidency; the activities of strategic political elites; the political behavior of ordinary American citizens; and contemporary debates over such important issues as economic inequality, partisan polarization, racism, and immigration. These topics will be examined using a variety of theoretical and empirical frameworks, with particular emphasis on the advantages and limitations of analyzing political actors as rational and strategic decision-makers.
 
-Since this is a [communication-intensive](http://web.mit.edu/commreq/index.html) course, written assignments of various lengths are an integral part of the learning process. We are fortunate to be working closely with two excellent writing advisors, who will be actively involved in the writing aspects of the course and will be making several visits to recitations. Students **must meet with their assigned writing advisor at least once during the semester**, though many of you may find it useful to meet with them more than once. Another important part of the course is the assigned readings, which consist primarily of selections from scholarly books and articles. There will be daily reading quizzes, but no midterm or final exams.
+Since this is a {{% resource_link "9c8080ed-1453-4870-992f-a5b1a6ef58dc" "communication-intensive" %}} course, written assignments of various lengths are an integral part of the learning process. We are fortunate to be working closely with two excellent writing advisors, who will be actively involved in the writing aspects of the course and will be making several visits to recitations. Students **must meet with their assigned writing advisor at least once during the semester**, though many of you may find it useful to meet with them more than once. Another important part of the course is the assigned readings, which consist primarily of selections from scholarly books and articles. There will be daily reading quizzes, but no midterm or final exams.
 
 Learning Goals
 --------------

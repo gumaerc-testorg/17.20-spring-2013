@@ -49,9 +49,9 @@ RELATED READINGS
 {{< tdopen >}}
 
 
-"[Obama's Second Inaugural Speech](http://www.nytimes.com/2013/01/21/us/politics/obamas-second-inaugural-speech.html?pagewanted=all&_r=0)," _New York Times_, January 21, 2013.
+"{{% resource_link "37ce100b-0e01-4f6e-9a1d-94521f1764cd" "Obama's Second Inaugural Speech" %}}," _New York Times_, January 21, 2013.
 
-"[Transcript: Mitt Romney's Faith Speech](http://www.npr.org/templates/story/story.php?storyId=16969460)," npr.org, December 6, 2007.
+"{{% resource_link "09ed86ba-852d-42af-a139-452ef86ff7de" "Transcript: Mitt Romney's Faith Speech" %}}," npr.org, December 6, 2007.
 
 
 {{< tdclose >}}
@@ -67,13 +67,13 @@ RELATED READINGS
 {{< tdopen >}}
 
 
-Krehbiel, Keith. "A Theory." Chapter 2 in _Pivotal Politics: A Theory of U.S. Lawmaking_. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with [Google Books](http://books.google.com/books?id=M_oNZJw0DYgC&pg=PA20#v=onepage)\]
+Krehbiel, Keith. "A Theory." Chapter 2 in _Pivotal Politics: A Theory of U.S. Lawmaking_. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with {{% resource_link "0f7ad0a2-f62d-4a4b-877c-a2dec8bd0108" "Google Books" %}}\]
 
-Lizza, Ryan. "[As The World Burns: How the Senate and the White House Missed their Best Chance to Deal with Climate Change](http://www.newyorker.com/reporting/2010/10/11/101011fa_fact_lizza)." _New Yorker_, October 11, 2010.
+Lizza, Ryan. "{{% resource_link "9a9fb76c-2b4f-4daa-93a8-ee7d624b32dd" "As The World Burns: How the Senate and the White House Missed their Best Chance to Deal with Climate Change" %}}." _New Yorker_, October 11, 2010.
 
 Krehbiel, Keith. "Basics." Chapter 1 in _Pivotal Politics: A Theory of U.S. Lawmaking_. University of Chicago Press, 1998. ISBN: 9780226452722.
 
-Layzer, Judith A. "Cold Front: How the Recession Stalled Obama's Clean-Energy Agenda." Chapter 8 in _Reaching for a New Deal: Ambitious Governance, Economic Meltdown, and Polarized Politics on Obama's First Two Years_. Edited by Theda Skocpol and Lawrence R. Jacobs. Russell Sage Foundation, 2011. ISBN: 9780871548559. \[Preview with [Google Books](http://books.google.com/books?id=VJwirADAPzYC&pg=PA321#v=onepage)\]
+Layzer, Judith A. "Cold Front: How the Recession Stalled Obama's Clean-Energy Agenda." Chapter 8 in _Reaching for a New Deal: Ambitious Governance, Economic Meltdown, and Polarized Politics on Obama's First Two Years_. Edited by Theda Skocpol and Lawrence R. Jacobs. Russell Sage Foundation, 2011. ISBN: 9780871548559. \[Preview with {{% resource_link "c10768f8-4b08-468e-8e2f-e53d00ca328a" "Google Books" %}}\]
 
 {{% resource_link 6b282fb2-5cdc-6637-19e2-f69a71384872 "Ideology of the 111th Senate (PDF)" %}}
 
@@ -95,19 +95,19 @@ Moe, Terry M. "The Politics of Bureaucratic Structure." Chapter 8–1 in _Princi
 
 Lewis, David E. Excerpt from "The Politics of Presidential Appointments: Political Control and Bureaucratic Performance." Chapter 8–3 in _Principles and Practice of American Politics: Classic and Contemporary Readings_. 4th ed. Edited by Samuel Kernell and Steven S. Smith. CQ Press, 2009. ISBN: 9781604264630.
 
-Martin, Andrew D., Kevin M. Quinn, Theodore W. Ruger, et al. "[Competing Approaches to Predicting Supreme Court Decision Making](http://dx.doi.org/10.1017/S1537592704040502)." _Perspectives on Politics_ 2, no. 4 (2004): 761–7.
+Martin, Andrew D., Kevin M. Quinn, Theodore W. Ruger, et al. "{{% resource_link "638da922-8012-447f-b40d-a2b51e923e43" "Competing Approaches to Predicting Supreme Court Decision Making" %}}." _Perspectives on Politics_ 2, no. 4 (2004): 761–7.
 
-Graber, Mark A. "[The Nonmajoritarian Difficulty: Legislative Deference to the Judiciary](http://dx.doi.org/10.1017/S0898588X00000687)." _Studies in American Political Development_ 7, no. 1 (1993): 35–73.
+Graber, Mark A. "{{% resource_link "2660570c-01b5-44d2-a2ec-5cb1f22830d4" "The Nonmajoritarian Difficulty: Legislative Deference to the Judiciary" %}}." _Studies in American Political Development_ 7, no. 1 (1993): 35–73.
 
 Rosenberg, Gerald N. "The Real World of Constitutional Rights: The Supreme Court and the Implementation of the Abortion Decisions." Chapter 5-4 in _Principles and Practice of American Politics: Classic and Contemporary Readings_. 4th ed. Edited by Samuel Kernell and Steven S. Smith. CQ Press, 2009. ISBN: 9781604264630.
 
-Bartels, Larry M. "[Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind](http://dx.doi.org/10.1017/S1537592705050036)." _Perspectives on Politics_ 3, no. 1 (2005): 15–31.
+Bartels, Larry M. "{{% resource_link "94f2d086-642a-4993-b523-63a388330c5c" "Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind" %}}." _Perspectives on Politics_ 3, no. 1 (2005): 15–31.
 
 Schudson, Michael. "America's Ignorant Voters." Chapter 10–3 in _Principles and Practice of American Politics: Classic and Contemporary Readings_. 4th ed. Edited by Samuel Kernell and Steven S. Smith. CQ Press, 2009. ISBN: 9781604264630.
 
-Downs, Anthony. "[An Economic Theory of Political Action in a Democracy](http://www.jstor.org/stable/1827369)." _Journal of Political Economy_ 65, no. 2 (1957): 135–50.
+Downs, Anthony. "{{% resource_link "7b87490f-6f7f-4c6c-8502-d5fad1b229af" "An Economic Theory of Political Action in a Democracy" %}}." _Journal of Political Economy_ 65, no. 2 (1957): 135–50.
 
-Quattrone, George A., and Amos Tversky. "[Contrasting Rational and Psychological Analyses of Political Choice](http://www.jstor.org/stable/1962487)." _American Political Science Review_ 82, no. 3 (1988): 719–36.
+Quattrone, George A., and Amos Tversky. "{{% resource_link "0e5a8805-7307-411f-93d4-293b82b5aaa0" "Contrasting Rational and Psychological Analyses of Political Choice" %}}." _American Political Science Review_ 82, no. 3 (1988): 719–36.
 
 
 {{< tdclose >}}
@@ -135,4 +135,4 @@ In preparation for the long paper, the following assignment was given:
 Related Resource
 ----------------
 
-[APSA Style Manual for Political Science (PDF - 2.0MB)](https://connect.apsanet.org/stylemanual/)
+{{% resource_link "709b4c9c-1fe3-4fca-8173-435c09d423b0" "APSA Style Manual for Political Science (PDF - 2.0MB)" %}}
